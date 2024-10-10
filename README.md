@@ -8,4 +8,4 @@ Welcome to the Adobe Captivate course hosted on GitHub Pages! This course covers
 
 You can access the course by clicking the link below:
 
-[Launch the Course](https://github.com/jhigg55/Emotional-Intelligence-for-Instructors/blob/90d0d60d14524e37a20e11571610b8292832db0c/index.html)
+[Launch the Course](https://jhigg55.github.io/Emotional-Intelligence-for-Instructors/index.html)
