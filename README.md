@@ -1,6 +1,6 @@
 # Emotional-Intelligence-for-Instructors
 Welcome to my course on Emotional Intelligence for new or experienced instructors. This course was developed for my capstone project at WGU. 
-If you have any questions about the training, how to launch a githup pages course for your WGU capstone project, feel free to contact me at jhigg55@wgu.edu
+If you have any questions about the training, how to launch a github pages course for your WGU capstone project, feel free to contact me at jhigg55@wgu.edu
 
 Thank you!
 Joel
