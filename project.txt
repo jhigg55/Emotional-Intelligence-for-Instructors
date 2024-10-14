@@ -21354,7 +21354,7 @@
 {
 "id":"Slide29024",
 "class":"Normal Slide",
-"instance":"Title and text 1",
+"instance":"Thank You",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -21583,7 +21583,7 @@
 }
 ,{
 "id":"Slide29024",
-"title":"Title and text 1"
+"title":"Thank You"
 }
 ]
 }
